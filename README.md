@@ -1,4 +1,4 @@
-# Balancer frontend monorepo
+# Balancer
 
 _This project uses `pnpm`, if you haven't already installed it you can find the documentation here:
 https://pnpm.io/installation_
