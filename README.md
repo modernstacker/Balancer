@@ -11,7 +11,7 @@ build orchestration, to learn more about Turborepo please see the
 
 ## What's inside?
 
-This monorepo includes the following apps & packages:
+This monorepo includes the following apps & packages :
 
 ### Apps
 
